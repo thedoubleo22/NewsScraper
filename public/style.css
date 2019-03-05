@@ -1,6 +1,7 @@
 body { 
     background-color: rgb(192, 102, 192);
     font-family: 'Indie Flower', cursive;
+    color: white;
  }
 #wrapper {
   width: 960px;
@@ -21,7 +22,8 @@ body {
 textarea, input {
   display: block;
   width: 100%;
-  background-color: rgb(240, 206, 240);
+  background-color: rgb(116, 47, 116);
+  color: white;
 }
 input {
   height: 36px;
